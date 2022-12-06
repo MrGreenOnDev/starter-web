@@ -12,5 +12,7 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
+	You need deploy the application in the QA Environment
+
 ## Copyright
 Sample website with plenty of files for demos
