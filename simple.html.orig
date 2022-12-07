@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!-- Copyright 2022 Git Training 
+<<<<<<< HEAD
+ mais cenas que vão entrar em conflito
+=======
+  la se foram as cenas
+>>>>>>> 35f34e4 (adding text with conflicts)
+-->
+<head>
+	<title>A Great Website</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Just some content by PedroVV from tranning
+		</p>
+		<p>
+			Much more good content
+=======
+			Just some content by PedroVV
+			I am in troubles
+		</p>
+		<p>
+			Much more content with problems
+>>>>>>> 35f34e4 (adding text with conflicts)
+		</p>
+	</main>
+	<footer class="container">
+		<p>Best Git Trainning 2022 of this year</p>
+	</footer>
+</body>
+</html>
